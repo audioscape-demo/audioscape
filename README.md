@@ -1,6 +1,6 @@
 # audioscape-copy
-copy of kjfeng/audioscape
+Copy of kjfeng/audioscape
 
-by Dale Lee and Kevin Feng
+By Dale Lee and Kevin Feng
 
 COS426: Computer Graphics, S2019
